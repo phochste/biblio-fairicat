@@ -1,0 +1,86 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://biblio.ugent.be/publication",
+      "service-doc": [
+        {
+          "href": "https://biblio.ugent.be/doc/api",
+          "type": "text/html",
+          "title": "Biblio query language"
+        }
+      ]
+    } ,
+	{
+	  "anchor": "https://biblio.ugent.be/unapi" ,
+	  "service-doc": [
+	    {
+		  "href": "http://unapi.info/specs" ,
+		  "type": "text/html" ,
+		  "title": "unAPI discovery service"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/siteindex.xml" ,
+	  "service-doc": [
+	    {
+		  "href": "https://www.sitemaps.org" ,
+		  "type": "text/html" ,
+		  "title": "Sitemap protocol"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/oai" ,
+	  "service-doc": [
+	    {
+		  "href": "http://www.openarchives.org/OAI/openarchivesprotocol.html" ,
+		  "type": "text/html" ,
+		  "title": "OAI-PMH protocol"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/sru" ,
+	  "service-doc": [
+	    {
+		  "href": "https://www.loc.gov/standards/sru/index.html" ,
+		  "type": "text/html" ,
+		  "title": "SRU protocol"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/feed/hourly" ,
+	  "service-doc": [
+	    {
+		  "href": "https://www.rssboard.org/rss-specification" ,
+		  "type": "text/html" ,
+		  "title": "RSS protocol"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/feed/daily" ,
+	  "service-doc": [
+	    {
+		  "href": "https://www.rssboard.org/rss-specification" ,
+		  "type": "text/html" ,
+		  "title": "RSS protocol"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/feed/weekly" ,
+	  "service-doc": [
+	    {
+		  "href": "https://www.rssboard.org/rss-specification" ,
+		  "type": "text/html" ,
+		  "title": "RSS protocol"
+	  ]
+	} ,
+	{
+	  "anchor": "https://biblio.ugent.be/feed/monthly" ,
+	  "service-doc": [
+	    {
+		  "href": "https://www.rssboard.org/rss-specification" ,
+		  "type": "text/html" ,
+		  "title": "RSS protocol"
+	  ]
+	}
+  ]
+}
